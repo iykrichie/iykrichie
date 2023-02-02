@@ -5,7 +5,7 @@ My name is Osasona Ifeoluwa and I'm a Data Professional with a data-driven and t
 Skills and Experience
 * Python
 * PowerBI
-* ⚛ SQL
+* SQL
 * Version Control
 * Azure Machine LEarning
 * Databricks
