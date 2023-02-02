@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @iykrichie
-- 👀 I’m interested artificial intelligence and builidng solutions with new and emerging technologies.
-- 🌱 I’m currently learning MLOps for operationalizing model build, deployment and release to production environment.
-- 💞️ I’m looking to collaborate on buiding data and ML solutions to solve diverse business prolems.  
-- 📫 How to reach me ...
-<!---
-iykrichie/iykrichie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Data Scientist and Machine Learning Engineer
+
+My name is Osasona Ifeoluwa and I'm a Data Professional with a data-driven and technology-focused approach to developing solutions that aids better decision making. You can check out my LinkedIn at: [https://www.linkedin.com/in/ifeoluwa-osasona/](https://www.linkedin.com/in/ikechukwumbaliri/)
+
+Skills and Experience
+* 👩‍💻 Python
+* 📈 PowerBI
+* ⚛ SQL
+* 💻 Version Control
+
+👯 I’m looking to collaborate on Data Science Open Source Projects
+📫 How to reach me: mbaliri.ikechukwu@gmail.com
+😄 Pronouns: He/His
