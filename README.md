@@ -36,7 +36,6 @@ Currently focused on building proprietary FinTech infrastructure at **Coronation
 ### **📫 Connect with Me**
 * **LinkedIn**: [/in/ikechukwumbaliri](https://www.linkedin.com/in/ikechukwumbaliri/)
 * **Portfolio**: [github.com/iykrichie](https://github.com/iykrichie)
-* **Email**: [mbaliri.ikechukwu@gmail.com](mailto:mbaliri.ikechukwu@gmail.com)
 
 ---
 > *"I don’t just deploy technology for the sake of innovation; I ensure it works reliably, scales seamlessly, and delivers a measurable return on investment."*
