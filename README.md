@@ -1,4 +1,4 @@
-```markdown
+
 # 🚀 Richard Ikechukwu Mbaliri
 ### **AI Architect | Multi-Cloud Leader | Fintech Product Engineer**
 
@@ -64,4 +64,3 @@ I am always open to discussing:
 *"Disciplined execution means ensuring technology works reliably, scales effortlessly, and keeps sensitive data exactly where it belongs: in-house."*
 
 **Connect:** [/in/ikechukwumbaliri](https://www.linkedin.com/in/ikechukwumbaliri/) | **Explore:** [github.com/iykrichie](https://github.com/iykrichie)
-```
