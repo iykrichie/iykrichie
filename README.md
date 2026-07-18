@@ -49,6 +49,21 @@ I work at the intersection of strategy, software engineering, and applied AI. My
 * **Problem:** Messy Nigerian address data (PO Boxes, Plots) limits operational efficiency and geographic insights.
 * **Approach:** Engineered a hybrid pipeline using Google's Enterprise APIs paired with deep Nigerian domain logic (custom PO Box guards, district-to-LGA fuzzy matching). Scaled throughput 5-10x using a concurrent asynchronous worker pool and an in-memory cache layer.
 
+### 📊 Data Science & Analytics Projects
+
+#### 💨 [Lagos Air Quality Monitoring System](https://github.com/iykrichie/AirQualityMonitoringSystem)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white) ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-lightgrey?style=flat-square)
+
+**A desktop application that retrieves, analyzes, and visualizes air quality data from the Astra database or local CSV files.**
+* **Problem:** Air quality data was siloed in remote databases and difficult for non-technical stakeholders to quickly visualize and analyze.
+* **Approach:** Built an interactive Python GUI using `tkinter` connected to a remote Cassandra-based Astra DB via custom drivers. Used `pandas` and `matplotlib` to dynamically query and plot real-time metrics, giving users instant visual feedback.
+
+#### 🎯 [RFM Customer Segmentation Model](https://github.com/iykrichie/rfmSegmentation)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Clustering-ff69b4?style=flat-square) ![Analytics](https://img.shields.io/badge/Customer_Analytics-Data_Science-0052CC?style=flat-square)
+
+**A supervised clustering pipeline that scores and segments customers based on Recency, Frequency, and Monetary value.**
+* **Problem:** E-commerce businesses struggle to identify their most valuable customers, leading to inefficient and generic marketing campaigns.
+* **Approach:** Implemented an RFM analysis model that quantitatively ranks customer purchase behavior. Engineered features to compute individual scores and mapped them into discrete, actionable segment groups (e.g., "Champions", "At Risk"), enabling targeted ROI-focused campaigns.
 ---
 
 ## 🏆 Experience Highlights
