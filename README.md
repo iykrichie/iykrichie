@@ -1,66 +1,85 @@
+# Richard Ikechukwu Mbaliri
 
-# 🚀 Richard Ikechukwu Mbaliri
-### **AI Architect | Multi-Cloud Leader | Fintech Product Engineer**
+<div align="center">
+  <img src="https://img.shields.io/badge/AI%20Architect-Private%20AI%20Systems-blue?style=for-the-badge" alt="AI Architect" />
+  <img src="https://img.shields.io/badge/Fintech-Data%20Engineering-ff69b4?style=for-the-badge" alt="Fintech" />
+  <img src="https://img.shields.io/badge/Cloud%20%26%20On-Prem-Trusted%20Infrastructure-success?style=for-the-badge" alt="Cloud and On-Prem" />
+</div>
 
-> Building robust, private AI infrastructure for the African Fintech ecosystem. I bridge the gap between executive data strategy and hands-on systems engineering.
+### Building secure, high-impact AI and data systems for regulated industries
 
----
+> I design private, scalable, and production-ready AI infrastructure that helps organizations move from experimentation to dependable business value.
 
-### **🎯 What I Do**
-I don't deploy AI just for the sake of innovation. I build the underlying infrastructure—OCR pipelines, reconciliation engines, and agentic workflows—that deliver measurable ROI, guarantee data privacy, and scale effortlessly. 
+I work at the intersection of strategy, software engineering, and applied AI. My niche is helping teams move from cloud-dependent experimentation to robust, governable systems that run efficiently in-house—especially in finance, insurance, and data-heavy operations.
 
-As a technical executive, I lead data transformations while remaining a hands-on builder. Currently, my engineering focus is moving enterprise AI away from expensive cloud APIs toward **locally hosted models** to ensure absolute data sovereignty for financial institutions.
+## 🌐 Personal Brand
 
----
+I am a builder of trusted technology systems: combining enterprise architecture, product thinking, and hands-on engineering to solve complex problems in regulated environments. My work focuses on making AI practical, safe, and valuable—especially where privacy, compliance, and operational reliability matter most.
 
-### **⚡ Featured Engineering & Repos**
-*While most of my enterprise work is proprietary, these public repositories reflect how I approach complex financial bottlenecks.*
+## 🧠 Core Strengths
 
-* 🧠 **[claimscan_ai_local](https://github.com/iykrichie/claimscan_ai_local)** *(Agentic AI Pipeline)*
-  *The localized evolution of enterprise claims processing. I architected this human in the loop system to run entirely on internal infrastructure using **Ollama hosted LLMs**. It features a pluggable AI provider layer, advanced OCR extraction, automated risk scoring, and SHA-256 PII hashing. This proves that enterprise AI doesn't require sending sensitive documents to third-party clouds.*
-* ⚙️ **[ai_recon_match_local](https://github.com/iykrichie/ai_recon_match_local)** *(Financial Infrastructure)*
-  *A localized engine for automating complex Bank vs. General Ledger matching. It eliminates manual reconciliation bottlenecks while keeping proprietary financial data strictly on premise.*
-* ☁️ **[claimscan_ai_cloud](https://github.com/iykrichie/claimscan_ai_cloud)** & **[ai_recon_match_cloud](https://github.com/iykrichie/ai_recon_match_cloud)**
-  *The cloud predecessors to my local models, demonstrating my ability to architect across both distributed cloud environments and edge deployments.*
-* 📍 **[CleanAddress](https://github.com/iykrichie/CleanAddress)** *(Data Quality)*
-  *A Dockerized microservice for standardizing and validating fragmented Nigerian address data via geocoding.*
+- Enterprise AI architecture and implementation
+- Private / local LLM deployment and orchestration
+- OCR, document processing, and intelligent automation
+- Financial reconciliation, risk workflows, and data quality systems
+- Multi-cloud and on-premise infrastructure design
+- Data strategy for regulated and high-trust environments
 
----
+## 🛠️ Technical Stack
 
-### **🔮 Recent Activity & Focus (June 2026)**
-My recent commit history reflects a focused engineering sprint: migrating critical Fintech infrastructure from cloud dependency to local sovereignty. 
-* **AI Infrastructure Migration:** Active development on `claimscan_ai_local` and `ai_recon_match_local`.
-* **Tooling & DevOps:** Refining local development environments, including custom WPS font configurations and OCR testing with `surya`.
-* **Data Standardization:** Pushing updates to `CleanAddress` for improved geocoding accuracy.
+- Languages: Python, TypeScript, Node.js
+- Frameworks: Next.js, REST APIs, WebSocket systems
+- AI/ML: Ollama, local LLMs, RAG-style workflows, agentic systems
+- Data & Infra: Docker, AWS, Azure, GCP, Nginx, systemd
+- Domain Focus: Fintech, insurance, analytics, operational automation
 
----
+## ✨ Featured Projects
 
-### **🛠️ Technical Arsenal**
-**Architecture & AI:** Agentic Workflows | Local LLMs (Ollama) | RAG Pipelines | RPA | Systems Design
-**Cloud & Infra:** AWS | Azure | GCP | Docker | Systemd/Nginx | Edge Computing
-**Languages & Web:** TypeScript | Python | Node.js | Next.js | REST/WebSocket APIs
+<div align="center">
+  <a href="https://github.com/iykrichie/claimscan_ai_local">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iykrichie&repo=claimscan_ai_local&theme=radical" alt="claimscan_ai_local" />
+  </a>
+  <a href="https://github.com/iykrichie/ai_recon_match_local">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iykrichie&repo=ai_recon_match_local&theme=radical" alt="ai_recon_match_local" />
+  </a>
+</div>
 
----
+<div align="center">
+  <a href="https://github.com/iykrichie/claimscan_ai_cloud">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iykrichie&repo=claimscan_ai_cloud&theme=radical" alt="claimscan_ai_cloud" />
+  </a>
+  <a href="https://github.com/iykrichie/CleanAddress">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iykrichie&repo=CleanAddress&theme=radical" alt="CleanAddress" />
+  </a>
+</div>
 
-### **🏆 Enterprise Impact (Track Record)**
-* **[Coronation Technologies]** *Head of Data Management & Analytics*
-  Driving data centralization across the group and building proprietary AI infrastructure for Life and General insurance.
-* **[Union Bank]** *Pioneer, AI & Insights Department*
-  Built the AI function from the ground up, achieving a **96% project delivery rate** across complex regulatory environments.
-* **[Sterling Bank]** *Data & Analytics Lead*
-  Generated **$17M in direct revenue** via strategic churn prediction models and built the first real-time fraud monitoring tool in a Nigerian commercial bank.
-* **[VBank MFB]** *Data Lead*
-  Architected cloud platforms from scratch, establishing a lean and highly productive data engineering culture.
+## 🏆 Experience Highlights
 
----
+- Head of Data Management & Analytics, Coronation Technologies
+  - Led data centralization and built AI infrastructure for insurance operations.
 
-### **🤝 Let's Collaborate**
-I am always open to discussing:
-* 🏗️ **Enterprise AI Architecture:** Moving from cloud APIs to local, private LLM deployments.
-* 📊 **Fintech Infrastructure:** Reconciliation, payment gateways, and risk engines.
-* 🚀 **High-Level Strategy:** Building data cultures and analytics teams from zero to one.
+- Pioneer, AI & Insights Department, Union Bank
+  - Built an AI function from the ground up and delivered strong execution in a highly regulated environment.
 
----
-*"Disciplined execution means ensuring technology works reliably, scales effortlessly, and keeps sensitive data exactly where it belongs: in-house."*
+- Data & Analytics Lead, Sterling Bank
+  - Delivered strategic analytics and built a real-time fraud monitoring capability that created measurable business value.
 
-**Connect:** [/in/ikechukwumbaliri](https://www.linkedin.com/in/ikechukwumbaliri/) | **Explore:** [github.com/iykrichie](https://github.com/iykrichie)
+- Data Lead, VBank MFB
+  - Built cloud-enabled data platforms and fostered a productive engineering culture from the start.
+
+## 📌 What I Help Build
+
+- Private AI systems for sensitive business data
+- Document intelligence and workflow automation platforms
+- Scalable fintech and insurance infrastructure
+- Data quality and reconciliation engines
+- High-trust analytics solutions for enterprise teams
+
+## 🔗 Connect
+
+- LinkedIn: [ikechukwumbaliri](https://www.linkedin.com/in/ikechukwumbaliri/)
+- GitHub: [iykrichie](https://github.com/iykrichie)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iykrichie&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile views" />
+</div>
