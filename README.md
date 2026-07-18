@@ -60,20 +60,6 @@ I operate at the intersection of strategy, software engineering, and applied art
 * **Problem:** Air quality data was isolated in remote databases, making it difficult for stakeholders to visualize and analyze information promptly.
 * **Approach:** Built an interactive Python graphical user interface connected to a remote Cassandra database. Utilized data manipulation libraries to dynamically query and plot metrics, providing users with immediate visual feedback.
 
-
----
-
-## 🏆 Experience Highlights
-
-* **Head of Data Management & Analytics | Coronation Technologies**
-  * Led data centralization efforts and engineered private artificial intelligence infrastructure to streamline operations in the insurance sector.
-* **Pioneer, AI & Insights Department | Union Bank**
-  * Established the artificial intelligence function from inception, delivering measurable execution within a highly regulated financial environment.
-* **Data & Analytics Lead | Sterling Bank**
-  * Built a real time fraud monitoring capability and delivered strategic analytics that created direct business value.
-* **Data Lead | VBank MFB**
-  * Architected cloud enabled data platforms and fostered a high performance engineering culture from inception.
-
 ---
 
 ## 🔗 Connect
