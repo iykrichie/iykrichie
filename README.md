@@ -60,12 +60,6 @@ I operate at the intersection of strategy, software engineering, and applied art
 * **Problem:** Air quality data was isolated in remote databases, making it difficult for stakeholders to visualize and analyze information promptly.
 * **Approach:** Built an interactive Python graphical user interface connected to a remote Cassandra database. Utilized data manipulation libraries to dynamically query and plot metrics, providing users with immediate visual feedback.
 
-#### 🎯 [RFM Customer Segmentation Model](https://github.com/iykrichie/rfmSegmentation)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Clustering-ff69b4?style=flat-square) ![Analytics](https://img.shields.io/badge/Customer_Analytics-Data_Science-0052CC?style=flat-square)
-
-**A supervised clustering pipeline that scores and segments customers based on Recency, Frequency, and Monetary value.**
-* **Problem:** Electronic commerce businesses often struggle to identify their most valuable customers, which leads to inefficient marketing campaigns.
-* **Approach:** Implemented an analysis model that quantitatively ranks customer purchase behavior. Engineered features to compute individual scores and mapped them into discrete segment groups, enabling highly targeted marketing initiatives.
 
 ---
 
