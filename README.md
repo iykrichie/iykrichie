@@ -1,9 +1,15 @@
 # Richard Ikechukwu Mbaliri
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AI%20Architect-Private%20AI%20Systems-blue?style=for-the-badge" alt="AI Architect" />
-  <img src="https://img.shields.io/badge/Fintech-Data%20Engineering-ff69b4?style=for-the-badge" alt="Fintech" />
-  <img src="https://img.shields.io/badge/Cloud%20%26%20On-Prem-Trusted%20Infrastructure-success?style=for-the-badge" alt="Cloud and On-Prem" />
+  <a href="https://github.com/iykrichie">
+    <img src="https://img.shields.io/badge/AI_Architect-Private_AI_Systems-blue?style=for-the-badge" alt="AI Architect" />
+  </a>
+  <a href="https://github.com/iykrichie">
+    <img src="https://img.shields.io/badge/Fintech-Data_Engineering-ff69b4?style=for-the-badge" alt="Fintech" />
+  </a>
+  <a href="https://github.com/iykrichie">
+    <img src="https://img.shields.io/badge/Cloud_&_On-Prem-Trusted_Infrastructure-success?style=for-the-badge" alt="Cloud and On-Prem" />
+  </a>
 </div>
 
 ### Building secure, high-impact AI and data systems for regulated industries
@@ -15,6 +21,12 @@ I work at the intersection of strategy, software engineering, and applied AI. My
 ## 🌐 Personal Brand
 
 I am a builder of trusted technology systems: combining enterprise architecture, product thinking, and hands-on engineering to solve complex problems in regulated environments. My work focuses on making AI practical, safe, and valuable—especially where privacy, compliance, and operational reliability matter most.
+
+## 🚧 Currently Building
+
+- Private document intelligence systems for finance and insurance
+- Local-first AI workflows that keep sensitive data in-house
+- Automation platforms that reduce manual reconciliation and operational friction
 
 ## 🧠 Core Strengths
 
