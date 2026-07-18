@@ -1,4 +1,4 @@
-# Richard Ikechukwu Mbaliri
+# Ikechukwu R. Mbaliri
 
 <div align="center">
   <img src="https://img.shields.io/badge/AI_Architect-Private_AI_Systems-0052CC?style=for-the-badge&logo=openai&logoColor=white" alt="AI Architect" />
